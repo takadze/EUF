@@ -1,0 +1,209 @@
+body{
+    background: url(../img/img4.jpg) no-repeat; 
+}
+.bg-light{
+    background-color: transparent;
+}
+.icon{
+    margin: 15px;
+    font-size: 40px;
+    color: #7971ea;
+}
+.OneSchool{
+    padding-right: 17rem;
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+.landing{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 200px;
+    background-color: none;
+}
+.jumbotron{
+    width: 37rem;
+    margin-right: -30px;
+    width: 600px;
+    background-color: transparent;
+}
+.jumbotron h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.landing-form{
+    width: 430px;
+    height: 400px;
+    padding: 45px;
+    margin-left: 60px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.landing-form label{
+    font-size: 25px;
+}
+.blue{
+    background-color: #7971ea;
+    width: 100%;
+    height: 400px;
+    margin-top: 230px;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+}
+.blue h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.carusel{
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: center;
+     background: #fff;
+}
+.card{
+    top: -130px;
+    margin-left: 40px;
+}
+.botton{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 160px;
+}
+
+.programs-text{
+    text-align: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 170px;
+}
+.programs-text h1{
+    padding-bottom: 50px;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+.programs-text p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.programsbody{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.programsbody img{
+    max-width: 600px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.bodytext{
+    max-width: 300px;
+    line-height: 2.4rem;
+    margin-top: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.teachers-text{
+    text-align: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 170px;
+}
+.teachers-text h1{
+    padding-bottom: 50px;
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-top: 170px;
+}
+.teachers-text p{
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.Teachers{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.Teachers1{
+    border: 1px solid grey;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    margin-bottom: 160px;
+}
+.Teachers1 img{
+    height: 150px;
+    border-radius: 100px;
+    margin-top: -100px;
+}
+
+.chineli{
+    background-image: url(../IMG/imgg.jpg);
+}
+.chinelisiri{
+    text-align: center;
+    justify-content: center;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 500px;
+    padding-top: 50px;
+ 
+}
+.chinelisiri img{
+    height: 200px;
+    border-radius: 100px;
+}
+.chinelisiri h4{
+    padding-bottom: 50px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color:#fff;
+}
+.chineli p{
+    margin: 0 auto;
+    line-height: 1.7;
+    color:#fff;
+    font-weight: 300;
+    font-size: 1.1rem;
+    max-width: 700px;
+}
+.teachers-texts{
+    text-align: center;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+   padding-top: 70px;
+   margin-bottom: 60px;
+  
+}
+.zangistiti{
+    display: flex;
+    flex-direction: column;
+    max-width: 340px;
+    background-color: #fff;
+    border-radius: 3px;
+    margin-left: 100px;
+}
+.zangisfoto{
+    height: ;
+    background-image: url(../IMG/imgf.jpg);
+    padding-bottom: 300px;
+}
