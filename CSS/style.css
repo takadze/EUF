@@ -207,3 +207,71 @@ body{
     background-image: url(../IMG/imgf.jpg);
     padding-bottom: 300px;
 }
+.mesage{
+    background-color: ivory;
+}
+.mesage-form{
+    width: 600px;
+   
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-bottom: 150px;
+}
+.extra{
+    height: 250px;
+}
+.mesage-form h1{
+    font-size: 3rem;
+    font-weight: 900;
+}
+.mesage-form p{
+    margin-bottom: 40px;
+}
+
+
+.finish{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    /* height: 700px; */
+}
+.finish-section{
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 70px;
+    line-height: 1.7;
+    color: gray;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+.finish-sectionlink{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 70px;
+    padding-left: 80px;
+   
+}
+.finish-section h5{
+    margin-bottom: 40px;
+    color: black;
+   
+}
+.finish-sectionlink h5{
+    margin-bottom: 40px;
+}
+.finish-section input{
+   max-width: 200px;
+}
+.line{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    border-top: 1xp solid grey;
+}
+.line p{
+    color: gray;    
+}
